@@ -1,11 +1,11 @@
 "use strict";
-var Greater = /** @class */ (function () {
-    function Greater() {
+var Greeter = /** @class */ (function () {
+    function Greeter() {
     }
-    Greater.prototype.sayHello = function () {
+    Greeter.prototype.sayHello = function () {
         console.log("Hello" + name);
     };
-    return Greater;
+    return Greeter;
 }());
 function sortByName(a) {
     var result = a.slice(0);
