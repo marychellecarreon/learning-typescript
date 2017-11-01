@@ -21,3 +21,8 @@
 
 - When the team is already used to statically typed languages and don't want to go all-in on Javascript, thus it is a good alternative.
   Typescript was created by the same guy who made C# so its easy for the statically typed language to leverage to Typescript.
+  
+- Recommended for another framework such as Angular 2.
+
+- It is fully compatible with ES6.
+ 
