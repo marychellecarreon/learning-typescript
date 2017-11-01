@@ -15,5 +15,8 @@
     $ tsc -w
 ```
 
-## Advantages of using Typescript
-- When you have a large codebase
+## When should we use Typescript
+- When you have a large codebase, and more than one person works on the project, this can help you avoid a lot of common errors.
+  This is because all the checking will be done by the compiler and therefore, a lot of trivial bugs are caught at a very early stage.
+
+- 
